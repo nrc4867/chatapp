@@ -1,0 +1,2 @@
+rootProject.name = "Webchat-WebsocketTest"
+
